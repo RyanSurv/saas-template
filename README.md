@@ -27,6 +27,9 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 This template uses the following libraries to create an incredibly easy developer experience to create a SaaS product;
 
 Clerk - Authentication
+
 Stripe - Payments
+
 Shadcn/ui - Component library
+
 Prisma - TypeScript ORM
