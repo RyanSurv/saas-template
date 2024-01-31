@@ -8,7 +8,11 @@ Create a dev.db file in the Prisma folder (prisma/dev.db) or utilize a different
 
 ## Getting Started
 
-First, run the development server:
+First, Run npm install.
+
+Next, Run npm run db:push.
+
+Then, Run the development server:
 
 ```bash
 npm run dev
